@@ -1,0 +1,45 @@
+Value of the variable: 2	
+Value of the variable: 5	
+2
+
+Test  started here 
+Your ID : 5  And You got 100 points !! 
+Test  ended
+
+
+whileLoop Started Here
+whileLoop Here :  5
+whileLoop Here :  5
+whileLoop Ended Here
+
+
+for Loop Started Here
+printing loop statement
+printing loop statement
+printing loop statement
+printing loop statement
+forLoop Ended Here
+
+Value of the variable: 10	
+Value of the variable: 20	
+Value of the variable: 30	
+GCD of 10 and 30 = 10
+The LCM of 30 and 20 = 60
+Value of tan(30) = 0.577441
+Value of ln(2) = 0.693147
+GCD of 3 and 5 = 1
+The LCM of 3 and 5 = 15
+Value of tan(30) = 0.577441
+Value of ln(5) = 1.609438
+Factorial of 5 = 120
+7 is a prime number
+30
+200
+Value of expression in ELSIF: 30
+Value of expression in IF: 200
+Value of expression in IF: 30
+Condition value zero in IF block
+Value of expression in IF: -10
+Value of expression in IF: 2
+
+END OF Block of main function.

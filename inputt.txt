@@ -1,0 +1,70 @@
+!stdlib.h
+start()
+<
+ j = 2 ;
+k=5;
+copy(j);
+
+
+test(j){
+	option 1: 10 * 6 ; br;
+	option 2: 10 *7 ; br;
+	option 3: 5 + 49 ; br;
+	option 4: 40 + 50  ;  br;
+        option 5: 100 + 0  ; br;
+        option 6: 45 + 54  ;  br;
+	auto: 10 + 10 ;  br;
+}
+
+meanwhile(j);
+forloop(j,k);
+x = 10 ;
+y= 20 ;
+z = 30 ;
+
+gcd(x,z);
+lcm(z,y);
+tan(z);
+log_e(j);
+gcd(3,5);
+lcm(3,5);
+tan(30);
+log_e(5);
+
+factorial(5);
+prime(7);
+copy(x+y);
+copy(10*20);
+
+in_case (x>y)
+   x+y;
+or_in_case (y>x)
+   y+x;
+or
+   x*y;
+
+in_case (z>y)
+   x*y;
+   
+
+
+in_case (y > z)
+   z - y;
+or
+   x+y;
+
+in_case (z<y)
+   z-y;
+ 
+in_case (y < z)
+  y-z;
+ or
+   y*z;
+in_case (10>20)
+{
+ in_case (10<5)
+   10+5;
+ or
+   2;
+}
+>
